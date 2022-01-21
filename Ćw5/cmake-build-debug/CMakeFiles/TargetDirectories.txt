@@ -1,0 +1,3 @@
+/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/Ćw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/Ćw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/k4cp3rskiii/Library/Mobile Documents/com~apple~CloudDocs/MISMaP/Programowanie II R/Ćw5/cmake-build-debug/CMakeFiles/w5.dir
